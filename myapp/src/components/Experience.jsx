@@ -1,5 +1,5 @@
 import React from "react";
-var logo = require("../components/srijcon.png");
+var logo = require("../images/srijcon.png");
 const Experience = () => {
   return (
     <div style={{display:"flex",flexDirection:"column",justifyItems:"center",padding:"1rem"}}>
